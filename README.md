@@ -1,0 +1,2 @@
+# INTELLIGENT-IOT-BASED-MULTI-PARAMETER-AND-HEALTH-MONITORING-WITH-SMART-HEALTH-SCORING
+IoT-Integrated Remote Health Surveillance System  An IoT-based healthcare monitoring system that tracks heart rate and SpO₂ in real time using non-invasive sensors. It provides cloud-based monitoring, health alerts, stress detection, blood pressure and respiratory rate estimation, and a Smart Health Score for remote patient care and risk detection.
